@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -x
+set -x
 
 script_base=/tmp
 script_name=autoDumpThread
