@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -x
+set -x
 #设置脚本运行目录，默认是/tmp，可根据实际情况修改script_home变量
 script_base=/tmp
 script_name=checkWls
